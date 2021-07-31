@@ -18,15 +18,13 @@ There are some following steps
 You will see the 3d model on the plain surface.
 
 ## Difficulties faced while working on project
-- Google senceform (beta) plugin was installing .
-- various class and libraries
+- Faced difficulties in installing Google senceform (beta) plugin.
 
 ## Overcome the difficulties
-- Installed android differnt version.
-- Dependencies should be properly saved.
+- Tried installing various versions of Android API to support Google senceform (beta) plugin.
 
 ## Tried to do but not succeed
-We were trying to show instant model with out touching the screen but we are not able to do it.
+We tried to show the model instantly without interacting with the screen but was not possible at that time.
 
 ## Future plan regarding the development of project
-Our future planning  about this project is to move the 3d model with touchless just moving the fingers or hand from long without touching the screen.
+Our future planning about this project is to control the movement of 3d model with touchless hand gestures just by moving the fingers or hand without touching the screen.
