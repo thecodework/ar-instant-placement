@@ -18,7 +18,7 @@ There are some following steps
 You will see the 3d model on the plain surface.
 
 ## Difficulties faced while working on project
-- Faced difficulties in installing Google senceform (beta) plugin.
+- Faced difficulties in installing [Google senceform (beta) plugin](https://plugins.jetbrains.com/plugin/10698-google-sceneform-tools-beta-).
 
 ## Overcome the difficulties
 - Tried installing various versions of Android API to support Google senceform (beta) plugin.
