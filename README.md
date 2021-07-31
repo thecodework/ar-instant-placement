@@ -1,7 +1,7 @@
 # Instant placement
 ## About Project
-This app renders and instant 3d model on overlapping with camera capture using Augmented reality.
-## What we have done ?
+The Instant Placement API allows the user to place AR objects instantly, without having to first move their device to allow ARCore to establish full tracking and detect surface geometry. This app renders and instant 3d model on overlapping with camera capture using Augmented reality.
+## Installation steps-
 There are some following steps 
 - Api level should be Api 24 -Android 7 or above. Android Studio version Should be 3.1 or higher for Augmented Reality Apps.
 - In build.gradle of App, add a sceneform UX library and Sceneform Assets library.
