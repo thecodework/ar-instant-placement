@@ -16,6 +16,7 @@ There are some following steps
 
 ## Output will be
 You will see the 3d model on the plain surface.
+- ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/78479435/127740790-16bfc993-f30c-46f3-a79b-58ea9ab577fc.gif)
 
 ## Difficulties faced while working on project
 - Faced difficulties in installing [Google senceform (beta) plugin](https://plugins.jetbrains.com/plugin/10698-google-sceneform-tools-beta-).
