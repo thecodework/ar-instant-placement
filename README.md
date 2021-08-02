@@ -13,7 +13,7 @@ There are some following steps
 - In this project we have used various class to show the instant placement.
 - Write down the code in MainActivity as shown in the tutorial.
 - Run the App.
-- 
+
 ## Libraries/Dependencies with their versions :
 - [Sceneform](https://developers.google.com/sceneform/develop)- Sceneform is a 3D framework that makes it easy for you to build ARCore apps without OpenGL. We are using 1.15.0 version of google.ar.sceneform.ux:sceneform-ux.
 	
